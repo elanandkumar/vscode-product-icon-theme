@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"publisher": "ElAnandKumar",
 	"engines": {
-		"vscode": "1.45.0"
+		"vscode": "^1.45.0"
 	},
 	"repository": "https://github.com/elanandkumar/vscode-product-icon-theme.git",
 	"enableProposedApi": true,
