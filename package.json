@@ -1,10 +1,12 @@
 {
 	"name": "el-vsc-product-icon-theme",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"publisher": "ElAnandKumar",
+	"description": "This is a customized product icon theme",
 	"engines": {
 		"vscode": "*"
 	},
+	"icon": "el-icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/elanandkumar/vscode-product-icon-theme.git"
@@ -14,7 +16,7 @@
 		"productIconThemes": [
 			{
 				"id": "el-vsc-v1-icons",
-				"label": "ElVSCode 1.0 Icons",
+				"label": "El-VSCode 1.0 Icons",
 				"path": "./theme/el-vsc-product-icon-theme.json"
 			}
 		]
