@@ -12,9 +12,21 @@ This is simple them to change the product icon of vscode. It usage proposed api 
 
 The above step is required to enable it else it won't work. Further update to vscode and this extension may solve this.
 
+# What all changes?
+
+- Activity bar icons:
+  - Explorer
+  - Search
+  - Git
+  - Debug
+  - Extensions
+  - Account
+  - Settings
+- Code collapse/expand
+- Folder expand/collapse icon
+
 ## How it looks?
 
-VSCode Product Icon
+Changes are highlighted with yellow boxes.
 
-![El VSCode Product Icon 01](./demo-01.png)
-![El VSCode Product Icon 02](./demo-02.png)
+![El VSCode Product Icon](./demo.jpg)
