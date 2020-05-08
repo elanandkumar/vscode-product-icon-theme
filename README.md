@@ -1,8 +1,13 @@
-# Product Icon Theme Samples
+# VSCode product icon theme
 
-[Product icons themes](https://code.visualstudio.com/api/extension-guides/product-icon-theme) allow theme authors to customize the icons used in VS Code's built-in views: all icons except file icons (covered by file icon themes) and icons contributed by extensions.
+This is simple them to change the product icon of vscode. It usage proposed api to work.
 
-This sample provides a product icon theme with icons used in VS Code 1.0.
+# How to use it?
+
+- First install it from market place.
+- Then launch the VSCode with `--enable-proposed-api=elanandkumar.el-vsc-product-icon-theme` command.
+
+The above step is required to enable it else it won't work. Further update to vscode and this extension may solve this.
 
 ## Visuals
 

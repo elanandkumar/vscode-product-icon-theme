@@ -1,11 +1,14 @@
 {
 	"name": "el-vsc-product-icon-theme",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "ElAnandKumar",
 	"engines": {
-		"vscode": "^1.45.0"
+		"vscode": "*"
 	},
-	"repository": "https://github.com/elanandkumar/vscode-product-icon-theme.git",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/elanandkumar/vscode-product-icon-theme.git"
+	},
 	"enableProposedApi": true,
 	"contributes": {
 		"productIconThemes": [
