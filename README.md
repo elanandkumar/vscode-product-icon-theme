@@ -6,7 +6,7 @@ This is simple them to change the product icon of vscode. It usage proposed api 
 
 - First install it from market place.
 - Then launch the VSCode with `--enable-proposed-api=elanandkumar.el-vsc-product-icon-theme` command.
-- Once VSCode is open, use the command panel to change the product icon. Search for `Product Icon Theme` in the command pallet. Highlight it and press enter. Then select `El-VSCode ...` as the icon theme.
+- Once VSCode is open, use the command panel to change the product icon. Search for `Product Icon Theme` in the command pallet. Highlight it and press enter. Then select `El-VSCode 1.0 Icons` as the icon theme.
 
 > Please note that due to limitations, it only works if we start with `--enable-proposed-api` flag as mentioned above.
 
