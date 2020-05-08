@@ -1,0 +1,47 @@
+{
+	"fonts": [
+		{
+			"id": "el-vsc-01",
+			"src": [
+				{
+					"path": "./el-vsc-01.woff",
+					"format": "woff"
+				}
+			],
+			"weight": "normal",
+			"style": "normal"
+		}
+	],
+	"iconDefinitions": {
+		"files": {
+			"fontCharacter": "\\f754"
+		},
+		"search": {
+			"fontCharacter": "\\F422"
+		},
+		"debug-alt-2": {
+			"fontCharacter": "\\f46f"
+		},
+		"source-control": {
+			"fontCharacter": "\\f9c0"
+		},
+		"settings-gear": {
+			"fontCharacter": "\\e70c"
+		},
+		"tree-item-expanded": {
+			"fontCharacter": "\\f107"
+		},
+		"account": {
+			"fontCharacter": "\\f2be"
+		},
+		"folding-expanded": {
+			"fontCharacter": "\\f147"
+		},
+		"folding-collapsed": {
+			"fontCharacter": "\\f196"
+		},
+		"extensions": {
+			"fontCharacter": "\\f576"
+		}
+	}
+}
