@@ -1,4 +1,4 @@
-# [0.1.5](https://https://github.com/elanandkumar/vscode-product-icon-theme/compare/v0.1.4...v0.1.5) (2020-05-09)
+# [0.1.5](https://github.com/elanandkumar/vscode-product-icon-theme/compare/v0.1.4...v0.1.5) (2020-05-09)
 
 In this version, added icons for statusbar.
 
