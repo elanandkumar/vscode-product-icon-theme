@@ -23,7 +23,7 @@
 			"fontCharacter": "\\f46f"
 		},
 		"source-control": {
-			"fontCharacter": "\\f9c0"
+			"fontCharacter": "\\FB2B"
 		},
 		"settings-gear": {
 			"fontCharacter": "\\e70c"
@@ -42,6 +42,33 @@
 		},
 		"extensions": {
 			"fontCharacter": "\\f576"
+		},
+		"cloud-upload": {
+			"fontCharacter": "\\E33C"
+		},
+		"git-branch": {
+			"fontCharacter": "\\f9c0"
+		},
+		"error": {
+			"fontCharacter": "\\f686",
+		},
+		"warning": {
+			"fontCharacter": "\\F67d"
+		},
+		"info": {
+			"fontCharacter": "\\F684"
+		},
+		"check": {
+			"fontCharacter": "\\F62C"
+		},
+		"bell": {
+			"fontCharacter": "\\F59B"
+		},
+		"bell-dot": {
+			"fontCharacter": "\\F59E"
+		},
+		"exclude": {
+			"fontCharacter": "\\FB97"
 		}
 	}
 }
