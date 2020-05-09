@@ -6,9 +6,11 @@
 	"engines": {
 		"vscode": "^1.45.0"
 	},
-	"icon": "el-icon.png",
+	"icon": "assets/el-icon.png",
 	"displayName": "Minimalist Product Icon Theme",
-	"categories": ["Themes"],
+	"categories": [
+		"Themes"
+	],
 	"preview": true,
 	"repository": {
 		"type": "git",
@@ -19,7 +21,7 @@
 		"productIconThemes": [
 			{
 				"id": "el-vsc-v1-icons",
-				"label": "El-VSCode 1.0 Icons",
+				"label": "El-VSCode Icons",
 				"path": "./theme/el-vsc-product-icon-theme.json"
 			}
 		]
