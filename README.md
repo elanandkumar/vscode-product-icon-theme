@@ -1,6 +1,6 @@
 # VSCode product icon theme
 
-This is simple them to change the product icon of vscode. It usage proposed api to work.
+This is simple theme to change the product icon of vscode. It usage proposed api to work.
 
 # How to use it?
 
