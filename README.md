@@ -1,16 +1,13 @@
-# VSCode product icon theme
+# VSCode product icon theme (_El-Minimalist Icons_)
 
 This is simple theme to change the product icon of vscode. It usage proposed api to work.
 
-# How to use it?
+# How to Install?
 
-- First install it from market place.
-- Then launch the VSCode with `--enable-proposed-api=elanandkumar.el-vsc-product-icon-theme` command.
-- Once VSCode is open, use the command panel to change the product icon. Search for `Product Icon Theme` in the command pallet. Highlight it and press enter. Then select `El-VSCode Icons` as the icon theme.
-
-> Please note that due to limitations, it only works if we start with `--enable-proposed-api` flag as mentioned above.
-
-The above step is required to enable it else it won't work. Further update to vscode and this extension may solve this.
+- First install it from [Marketplace](https://marketplace.visualstudio.com/items?itemName=ElAnandKumar.el-vsc-product-icon-theme).
+- Launch the VSCode.
+- Once VSCode is open, use the command panel (Ctrl/Cmd + shift + p) and search for `Preferences: Product Icon Theme`.
+- Select `El-Minimalist Icons` as the icon theme.
 
 ### How to launch VSCode using command line.
 - Open the VSCode.
@@ -48,7 +45,7 @@ The above step is required to enable it else it won't work. Further update to vs
 #### Activity Bar
 Changes are highlighted with yellow boxes.
 
-![El VSCode Product Icon](./assets/demo.jpg)
+![El Minimalist Product Icon](./assets/demo.jpg)
 
 #### Status Bar:
 ![Status bar Icons](./assets/statusbar-icons.png)
