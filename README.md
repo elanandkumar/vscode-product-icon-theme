@@ -9,15 +9,6 @@ This is simple theme to change the product icon of vscode. It usage proposed api
 - Once VSCode is open, use the command panel (Ctrl/Cmd + shift + p) and search for `Preferences: Product Icon Theme`.
 - Select `El-Minimalist Icons` as the icon theme.
 
-### How to launch VSCode using command line.
-- Open the VSCode.
-- Use command panel and search for `Shell`.
-- Select "Shell command: Install 'code' command in PATH"
-- Now go to terminal and navigate to a folder which you want to open in VSCode.
-- Next, use the command shown below:
-  - `code .` -> To open the current folder into VSCode
-  - `code . --enable-proposed-api=elanandkumar.el-vsc-product-icon-theme` -> To open the current folder in VSCode with option to use this plugin.
-
 # Noticeable Changes?
 
 - Activity bar icons:
