@@ -1,4 +1,8 @@
-# [0.1.6](https://github.com/elanandkumar/vscode-product-icon-theme/compare/v0.1.5...v0.1.4) (2020-05-12)
+# [0.1.7](https://github.com/elanandkumar/vscode-product-icon-theme/compare/v0.1.7...v0.1.6) (2021-03-07)
+- Update to readme and version compatibility.
+- Removed preview as it can be used out of the box now.
+
+# [0.1.6](https://github.com/elanandkumar/vscode-product-icon-theme/compare/v0.1.6...v0.1.5) (2020-05-12)
 Readme updated for grammatical issue.
 
 # [0.1.5](https://github.com/elanandkumar/vscode-product-icon-theme/compare/v0.1.4...v0.1.5) (2020-05-09)

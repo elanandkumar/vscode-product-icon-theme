@@ -1,27 +1,38 @@
 {
 	"name": "el-vsc-product-icon-theme",
-	"version": "0.1.6",
+	"version": "0.1.7",
 	"publisher": "ElAnandKumar",
-	"description": "This is a customized product icon theme",
+	"author": {
+		"name": "Anand Kumar"
+	},
+	"description": "This is a minimalist customized product icon theme",
 	"engines": {
-		"vscode": "^1.45.0"
+		"vscode": "^1.53.0"
 	},
 	"icon": "assets/el-icon.png",
 	"displayName": "Minimalist Product Icon Theme",
 	"categories": [
 		"Themes"
 	],
-	"preview": true,
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/elanandkumar/vscode-product-icon-theme.git"
 	},
-	"enableProposedApi": true,
+	"keywords": [
+		"icon",
+		"theme",
+		"minimalist",
+		"product"
+	],
+	"extensionKind": [
+		"ui",
+		"workspace"
+	],
 	"contributes": {
 		"productIconThemes": [
 			{
 				"id": "el-vsc-v1-icons",
-				"label": "El-VSCode Icons",
+				"label": "El-Minimalist Icons",
 				"path": "./theme/el-vsc-product-icon-theme.json"
 			}
 		]
