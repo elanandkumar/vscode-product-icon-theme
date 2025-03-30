@@ -19,24 +19,20 @@ This is simple theme to change the product icon of vscode. It usage proposed api
   - Extensions
   - Account
   - Settings
+  - Expand/collapse
 - Status Bar
   - Code collapse/expand
   - Folder expand/collapse icon
-  - cloud-upload
-  - git-branch
+  - cloud upload/download
+  - git branch
   - error
   - warning
   - info
-  - check
   - bell
-  - exclude
 
 ## How it looks?
 
 #### Activity Bar
-Changes are highlighted with yellow boxes.
+Changes are highlighted with red boxes.
 
-![El Minimalist Product Icon](./assets/demo.jpg)
-
-#### Status Bar:
-![Status bar Icons](./assets/statusbar-icons.png)
+![El Minimalist Product Icon](./assets/demo-0.2.0.jpg)

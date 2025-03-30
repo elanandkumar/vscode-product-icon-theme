@@ -8,67 +8,82 @@
 					"format": "woff"
 				}
 			],
-			"weight": "normal",
+			"weight": "lighter",
 			"style": "normal"
 		}
 	],
 	"iconDefinitions": {
 		"files": {
-			"fontCharacter": "\\f754"
+			"fontCharacter": "\\EBDF"
 		},
 		"search": {
-			"fontCharacter": "\\F422"
-		},
-		"debug-alt": {
-			"fontCharacter": "\\f46f"
+			"fontCharacter": "\\EA6D"
 		},
 		"source-control": {
-			"fontCharacter": "\\FB2B"
+			"fontCharacter": "\\EA84"
 		},
-		"settings-gear": {
-			"fontCharacter": "\\e70c"
+		"debug-alt": {
+			"fontCharacter": "\\EBDC"
 		},
-		"tree-item-expanded": {
-			"fontCharacter": "\\f107"
-		},
-		"account": {
-			"fontCharacter": "\\f2be"
-		},
-		"folding-expanded": {
-			"fontCharacter": "\\f147"
-		},
-		"folding-collapsed": {
-			"fontCharacter": "\\f196"
+		"debug-console": {
+			"fontCharacter": "\\EB9B"
 		},
 		"extensions": {
-			"fontCharacter": "\\f576"
-		},
-		"cloud-upload": {
-			"fontCharacter": "\\E33C"
+			"fontCharacter": "\\f1355"
 		},
 		"git-branch": {
-			"fontCharacter": "\\f9c0"
+			"fontCharacter": "\\f418"
+		},
+		"settings-gear": {
+			"fontCharacter": "\\F0A1E"
+		},
+		"tree-item-expanded": {
+			"fontCharacter": "\\EAB4"
+		},
+		"account": {
+			"fontCharacter": "\\E682"
+		},
+		"folding-expanded": {
+			"fontCharacter": "\\F458",
+		},
+		"folding-collapsed": {
+			"fontCharacter": "\\F457"
+		},
+		"cloud-upload": {
+			"fontCharacter": "\\EAC3"
+		},
+		"cloud-download": {
+			"fontCharacter": "\\EAC2"
+		},
+		"debug-alt-small": {
+			"fontCharacter": "\\eba8"
 		},
 		"error": {
-			"fontCharacter": "\\f686",
+			"fontCharacter": "\\EA87",
 		},
 		"warning": {
-			"fontCharacter": "\\F67d"
+			"fontCharacter": "\\EA6C"
 		},
 		"info": {
-			"fontCharacter": "\\F684"
-		},
-		"check": {
-			"fontCharacter": "\\F62C"
+			"fontCharacter": "\\EA74"
 		},
 		"bell": {
-			"fontCharacter": "\\F59B"
+			"fontCharacter": "\\EAA2"
 		},
 		"bell-dot": {
-			"fontCharacter": "\\F59E"
+			"fontCharacter": "\\EB9A"
 		},
-		"exclude": {
-			"fontCharacter": "\\FB97"
+		"bell-slash": {
+			"fontCharacter": "\\EC08"
+		},
+		"bell-slash-dot": {
+			"fontCharacter": "\\EC09"
+		},
+		"view-pane-container-collapsed": {
+			"fontCharacter": "\\EADC"
+		},
+		"view-pane-container-expanded": {
+			"fontCharacter": "\\EADF",
 		}
 	}
 }
